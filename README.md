@@ -1,2 +1,2 @@
-# My_Second_Repo
- Application "To do list"
+# Application "To do list"
+OP08 lesson homework
